@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "uaofacedeteapp",
+  "private_key_id": "95977631594d337bc5c2b9b1ef4264bc27018d50",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPfmniXcPnfNmL\nuxt5gsNnxBgyDyBptk+yAxnyMUY4wvuPCNlSAwPL70gRTEQcMTYD/ZTqf8Y0AGgA\nTvpnqwArafR7mP+ImQp9tuSKrW1DQ2ZxiB8eMYE/FRHygFJclJSqu4EG7sePLpFZ\n5gug5cVR7krAGK0gmqTxi8P9Uxa2BOV/IhrNGkd+cpWLQSRv5knMbhS3NL6QEuBR\nGHRLanU8oXXiBwqtYvCYv3YUMnPqPlhAARuTaVcQHf6xcLj2pMl70nc9/Qh8jAdO\n6J1WZP52kdMu6CekZPT0vbFGl1yFIb33b3WJBZwL+EmK1ws8Vu/386tpCn3Hvj21\nXCVyqIpFAgMBAAECggEADs1y+CpwEStB+It+vr7h5Yxxv92WRxF1kImICFdTmnto\nHqNCYpbJB3qnATx63OWpYClX+VuLrhr0n5jbdWJLNtn2oeFwoD4ZZPU/B5yduY30\naCCAr/QEvzsvNMhOtsTlE+Uaia/hikBljNPnEzFgykjou9RP18iG3MbBmxpn112W\nZasrdrEEUDdf4bmq6ZK6ADXeTYwTSRdnaytWJ1C5WymZXg0YlTRt2xjsUZ97Aahr\nLidNMf/0BvcSa3ND43xPCO4+b76ZKlXqB0o+lXQsZu+9k8Ymks6fm1llFs56GaEk\nZZlae3jaFf3vx8YgncIt87rVW1Za7ZwH/jHd4IGxqQKBgQDCXZZMGWrHFc7gAfIv\nHCmnRaSQiShcd7VdX4p4bO8ahad1/kz7iq2Uh3hnR4wumDDpj9gZdryH1qH2BuN9\nFfbHss0LIo5K6mHdZ+XCecFAfF7O/2kEvlTs2vu4+gHL7FpvlKTTZjaSNDHo+o7g\nquxB5z8SeTEV7J8tS/NdUtyV9wKBgQC8/xq4vqx8GIbTgojrdc4E14XK1br2/a5z\nK2kgwE6lnkBviDMUk7ARlxeSErWYZ/X5Ye+T0mn8x9HCvuKVdzPbRDBi6zPWP+Dx\nLxKWNZ8aRzAx3tOw1cKXqiQaK0dMldQUJSE3pog+37nW6zByhJZ9RZzNNfz26lUZ\n+H95MnfiowKBgD4+sm9UhHmVZlceyGyF3GERUI5pHl/ehlqMyk+es0QPIX4MHqM/\n2i8C43BP3XjejGuAAXjGKcJm3h9oPVpFum5huICkZGVhgk3hhBcv3s/EBKjN6tf2\nDER+LLckeYbQ/nVVaSO6TCeuR32RIEia9GZ2pCBKZ4nZ6XAcLqfobXQpAoGAJcco\nZD1Y5QVSDf1NuSM3JyidicnnMW/L6yGGRhGqpthXMPQcocRTsXBuObibq/c757l3\n1ih9HxYiC7d0O0Q0jWO3+E3jcrQaFpu+L2BQiUQpkg5kajiQSRitVr3H5rscRVqW\npTUYjtjRoPAqIvn1ytybVzmvcvusPyC4+lToOdkCgYEAqI2SsIg4i2kNDmoyuVp5\nhk16eZ7CiEW+DIGW6+cl0uVC6VQTegTl7pPXr8LtMTqqS5d8kMuPASkxxRIqm53A\ngeylixPoQLYYsMIVUIU8RrH/+IyezPHRTBkjuMf9hbzIWkwD4lAILXwCN6KZnYg0\nVbMMjgdgwI6sxgAzvw1aWgo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "uao-face-detection@uaofacedeteapp.iam.gserviceaccount.com",
+  "client_id": "102810658234876784468",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/uao-face-detection%40uaofacedeteapp.iam.gserviceaccount.com"
+}
